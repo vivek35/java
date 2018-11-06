@@ -1,1 +1,9 @@
-THis repository will contain all the programs related to Java.
+This is an good example of multithreading ans socket programming.
+This repository contains two files: TimeServer.java and TimeClient.java
+Programs are implemented using threading.
+Every time client request server for time, server will create new thread and returns time to the client. 
+
+Steps to run program:
+1. Run TimeServer.java in command prompt.
+2. Run TimeClient.java in command prompt.
+
